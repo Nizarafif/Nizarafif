@@ -7,7 +7,7 @@
 
 - 🤝 I’m looking for help with **-**
 
-- 👨‍💻 All of my projects are available at [https://nizarafif.github.io/portofolio-js/?fbclid=PAQ0xDSwKZH2ZleHRuA2FlbQIxMQABp_dCL0hVWUDI1j8zTJOdhvyt_PYRSufksS7BY1WkjCebXjuokEC4qQqRCtf0_aem_ixr69Sd9qcXDR7yZSe0WGQ](https://nizarafif.github.io/portofolio-js/?fbclid=PAQ0xDSwKZH2ZleHRuA2FlbQIxMQABp_dCL0hVWUDI1j8zTJOdhvyt_PYRSufksS7BY1WkjCebXjuokEC4qQqRCtf0_aem_ixr69Sd9qcXDR7yZSe0WGQ)
+- 👨‍💻 All of my projects are available at https://nizarnurafif.vercel.app/
 
 - 📫 How to reach me **nizarnurafif644@gmail.com**
 

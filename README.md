@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nizar</h1>
-<h3 align="center">A passionate frontend developer from Indonesia</h3>
-
-- 🔭 I’m currently working on **Freelance**
+<h3 align="center">A passionate full satack developer from Indonesia</h3>
 
 - 👯 I’m looking to collaborate on **mhmadediefanto**
 
